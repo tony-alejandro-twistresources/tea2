@@ -1,0 +1,6 @@
+.DS_Store
+/node_modules
+tea.sublime-project
+tea.sublime-workspace
+nohup.out
+dump.rdb
