@@ -1,0 +1,16 @@
+{
+  "name": "mysql",
+  "version": "0.0.1",
+  "description": "Module for mysql calls.",
+  "main": "./mysql.js",
+  "private": true,
+  "plugin": {
+    "module": "./mysql",
+  	"consumes": ["logger", "event"],
+  	"provides": []
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Alejandro <antonio.alejandro@tooltwist.com>"
+}

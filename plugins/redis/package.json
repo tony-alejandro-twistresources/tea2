@@ -1,0 +1,16 @@
+{
+  "name": "redis",
+  "version": "0.0.1",
+  "description": "Module for redis calls.",
+  "main": "./redis.js",
+  "private": true,
+  "plugin": {
+    "module": "./redis",
+  	"consumes": ["logger", "event"],
+  	"provides": []
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Alejandro <antonio.alejandro@tooltwist.com>"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "tea2",
+  "version": "0.0.1",
+  "description": "Tooltwist E-Commerce Accelerator.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony alejandro <antonio.alejandro@tooltwist.com>",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "~2.8.2",
+    "bunyan": "~1.0.1",
+    "architect": "~0.1.11",
+    "mysql": "~2.4.3",
+    "redis": "~0.12.1",
+    "hiredis": "~0.1.17"
+  }
+}
